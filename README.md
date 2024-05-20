@@ -1,13 +1,3 @@
-<style>
-    .blue { color: blue; }
-    .red { color: red; }
-    .green { color: green; }
-    .orange { color: orange; }
-    .purple { color: purple; }
-    .pink { color: pink; }
-    .yellow { color: yellow; }
-</style>
-
 <div style="display: flex; align-items: center; font-family: Tahoma, sans-serif;">
     <h1 style="margin-bottom: 10px; font-family: Tahoma, sans-serif;">
         <span class="blue">H</span>
