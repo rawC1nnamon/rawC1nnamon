@@ -17,8 +17,8 @@
         <span style="color: blue;">𝚊</span>
         <span style="color: red;">𝚌</span>
         <span style="color: green;">y</span>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2J5eXFqa3J4ejI1ZHhpZHU0ZTJncjFyNDBzd3I1ZXl2NzBoYmJiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RrJ2ZGJuc0YCmIKdHn/source.gif" width="50" style="margin-left: 10px; margin-bottom: 10px; float: right;">
     </h1>
-     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2J5eXFqa3J4ejI1ZHhpZHU0ZTJncjFyNDBzd3I1ZXl2NzBoYmJiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RrJ2ZGJuc0YCmIKdHn/source.gif" width="50" style="margin-left: 10px; margin-bottom: 10px; float: right;">
 </div>
 
 <p style="margin-top: 10px;">
