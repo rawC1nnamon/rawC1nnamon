@@ -20,6 +20,7 @@
    </p>
    <img src="https://simpleicons.org/icons/python.svg" width="60" height="30" alt="Python">
    <img src="https://simpleicons.org/icons/cplusplus.svg" width="60" height="30" alt="Cplusplus">
+   <img src="https://simpleicons.org/icons/go.svg" width="60" height="30" alt="Golang">
    <img src="https://simpleicons.org/icons/javascript.svg" width="60" height="30" alt="javascript">
    <img src="https://simpleicons.org/icons/gnubash.svg" width="60" height="30" alt="bash">
    <img src="https://simpleicons.org/icons/linux.svg" width="60" height="30" alt="Linux">
