@@ -5,10 +5,9 @@
 <hr />
 
 <div>
- <p>ƃuıɯɯɐɹƃoɹd ǝʞıl ı</p>
-  <a href="https://youtu.be/fZx7yUztxJ0?si=B6YEQUqRG3-Yc5gF" target="_blank">
-    <img src="https://raw.githubusercontent.com/rawC1nnamon/rawC1nnamon/main/images/hirako.png"
- alt="Hirako" width="250px" height="188px" />
+  <a>
+    <img src="https://raw.githubusercontent.com/rawC1nnamon/rawC1nnamon/main/images/atrasestudio.png"
+ alt="Emoji" width="250px" height="188px" />
   </a>
 </div>
 
