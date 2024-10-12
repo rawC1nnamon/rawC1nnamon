@@ -5,14 +5,6 @@
 <hr />
 
 <div>
-  <a>
-    <img src="https://raw.githubusercontent.com/rawC1nnamon/rawC1nnamon/main/images/atrasestudio.png"
- alt="Emoji" width="250px" height="188px" />
-  </a>
-</div>
-
-<hr />
-<div>
    <p align="left" width="235">
          <img src="https://raw.githubusercontent.com/rawC1nnamon/rawC1nnamon/main/images/skills.png" width="80" height="30" alt="Habilidades">
          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtzcDJhaHR0amVvd2t5MmVsNzR5ZnRjdWo5b3R2NnBoa2NzOXJocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RrJ2ZGJuc0YCmIKdHn/giphy.gif" width="30" height="25" alt="Gatito">
